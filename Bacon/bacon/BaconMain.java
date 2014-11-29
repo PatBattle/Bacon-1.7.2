@@ -27,7 +27,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.common.config.Property;
 
-@Mod(modid=BaconMain.modId, name="Bacon", version="0.01.0000")
+@Mod(modid=BaconMain.modId, name="Bacon")
 public class BaconMain {
 
 	// The instance of your mod that Forge uses.
